@@ -1,31 +1,32 @@
- <h1 align="center"> Suhail Md </h1> 
+ <h1 align="center"> Mwtutech Md </h1> 
 <p align="center"> A simple WhatsApp bot with rich features. </p>
 
  
-<h3 align="center"> <a href="https://github.com/SuhailTechInfo/Suhail-Md-Media">🍫 EXTERNAL PLUGINS 🍫</a></h3> 
+<h3 align="center"> <a href="https://github.com/KelvintechhInfo/Mwtutech-Md-Media">🍫 EXTERNAL PLUGINS 🍫</a></h3> 
 
 <h4 align="center"> ✔️ Fixed Heroku Ban Problem ✔️</h4> 
 
 
 <p align="center">
-  <a href="https://youtube.com/@suhailtechinfo">
-    <img alt="Suhail-Md" height="400" src="/lib/assets/pk.jpg">
+  <a href="https://whatsapp.com/channel/0029VaamqHTJP212NuXUc40F">
+    <img alt="![1137554702](https://github.com/Kelvintechh/Mwtutech/assets/170418039/a14427c3-b327-4e3f-a1e4-e063e97cfe81)
+">
   </a>
 </p>
     
    
    
 <p align="center">
-   <a href="https://github.com/SuhailTechInfo/Suhail-Md/fork">
+   <a href="https://github.com/kelvintechhInfo/mwtutech-Md/fork">
     <img src="https://img.shields.io/github/forks/SuhailTechInfo/Suhail-Md?style=flat-square&logo=github&color=darkred">
    </a>
-  <a href="https://github.com/SuhailTechInfo/Suhail-Md/stargazers"> 
+  <a href="https://github.com/kelvintechhInfo/mwtutech-Md/stargazers"> 
      <img src="https://img.shields.io/github/stars/SuhailTechInfo/Suhail-Md?style=flat-square&logo=github&color=darkred">
  </a>
 
 
 
-  <a aria-label="Suhail_Md is free to use" href="https://youtube.com/@suhailtechinfo" target="_blank">
+  <a aria-label="Suhail_Md is free to use" href="https://whatsapp.com/channel/0029VaamqHTJP212NuXUc40F">
     <img alt="SuhailTechInfo Yt" src="https://img.shields.io/youtube/channel/subscribers/UCU071AMRqcd5mfTdCgJFwPg" target="_blank" />
   </a>
 
@@ -79,7 +80,7 @@
 <p align="center">
   <a href="https://youtu.be/3NdJb6_1cJM"><img src="https://img.shields.io/badge/CodeSpace-green?colorA=%23ff000&colorB=%23017e40&style=for-the-badge&logo=git&logoColor=white"></a>
 </p>
-<p align="center">Need help? please create an <a href="https://github.com/SuhailTechInfo/Suhail-Md/issues">issue</a></p>
+<p align="center">Need help? please create an <a href="https://github.com/kelvintechhInfo/mwtutech-Md/issues">issue</a></p>
 
  
 
@@ -107,17 +108,13 @@
    
 ## Deployment Methods
 ---
-1.  ***Get `SESSION ID` by [`SCANING QR`](https://suhail-md-vtsf.onrender.com/) Or [`PARING CODE`](https://suhail-md-vtsf.onrender.com/code). Then `Go-to Whatapp>Three dots>Linked Devices`***
+1.  ***Get `SESSION ID` by [`SCANING QR`](https://mwtutech-md-vtsf.onrender.com/) Or [`PARING CODE`](https://mwtutech-md-vtsf.onrender.com/code). Then `Go-to Whatapp>Three dots>Linked Devices`***
 2.  ***Get Mongodb_URI from [`Mongodb site`](https://www.mongodb.com/) | Watch Tutorial [`To Get Mongodb_URI`](https://youtu.be/4YEUtGlqkl4). `Optional`***
-3.  ***Click [`FORK`](https://github.com/SuhailTechInfo/Suhail-Md/fork) and `Star ⭐ Repository` for Courage.***
+3.  ***Click [`FORK`](https://github.com/kelvintechhInfo/mwtutech-Md/fork) and `Star ⭐ Repository` for Courage.***
 4.  ***Deploy FREE on `Codespace,` First watch tutorial [`Codespace tutorial`](https://youtu.be/3NdJb6_1cJM)***
-5.  ***Deploy on [`HEROKU`](https://suhail-web01.vercel.app/deploy?platform=suhail).  `FIXED! ✔️`***
-6.  ***Deploy on [`Replit`](https://suhail-web01.vercel.app/deploy?platform=repl). ([Tutorial](https://youtu.be/hPXU9OjMryQ) )***
-7.  ***Deploy on [`Railway`](https://suhail-web01.vercel.app/deploy?platform=railway). ([Tutorial](https://youtu.be/iGVdsK4qmcc) )***
-8.  ***Deploy on [`Koyeb`](https://suhail-web01.vercel.app/deploy?platform=koyeb)***
-9. ***Deploy on [`Glitch`](https://suhail-web01.vercel.app/deploy?platform=glitch)***
-10. ***Deploy on [`RENDER`](https://suhail-web01.vercel.app/deploy?on=render)***
-10. ***Get [`More Plugins`](https://github.com/SuhailTechInfo/Suhail-Md-Media)***
+5.  ***Deploy on [`HEROKU`](https://mwtutech-web01.vercel.app/deploy?platform=suhail).  `FIXED! ✔️`***
+ 
+6. ***Get [`More Plugins`](https://github.com/kelvintechhInfo/Mwtutech-Md-Media)***
 ##
 
  <details close>
@@ -135,7 +132,7 @@
 
 
 - Star ⭐ repo if you like this bot.
-- If any problem, then create an [`+issue`](https://github.com/SuhailTechInfo/Suhail-Md/issues/new) Or ask anything here [`+Q&A`](https://github.com/SuhailTechInfo/Suhail-Md/discussions/new?category=q-a)!
+- If any problem, then create an [`+issue`](https://github.com/KelvintechhInfo/mwtutech- md/issues/new)
 
 
 
@@ -145,7 +142,7 @@
    
 ## 
 
-- *Suhail-Md is not made by `WhatsApp Inc.` Sometimes or misusing the bot might `ban` your `WhatsApp account!`*
+- *Mwtutech-Md is not made by `WhatsApp Inc.` Sometimes or misusing the bot might `ban` your `WhatsApp account!`*
 - *In that case, I'm not responsible for banning your account.*
 - *Use Suhail-Md at your own risk by keeping this warning in mind.*
 
